@@ -1,0 +1,18 @@
+h2{
+    color: orange;
+    text-align: right;
+}
+h3{
+    color: orange;
+    text-align: center;
+}
+h4{
+    color: orange;
+    text-align:left;
+}
+
+#para1{
+    color:darkviolet;
+    text-align: left;
+    text-decoration:underline;
+}
